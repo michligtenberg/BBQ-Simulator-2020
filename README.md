@@ -7,4 +7,7 @@ the last couple of days and made this pure gem of a game.
 using Unity and simple physics scripting, also includes
 a script for grabbing objects Gmod style.
 
-Download of the excecutable can be found @ releases.
+download of the excecutable can be found @ releases.
+
+project files are on an old external hard drive, will try to upload
+these asap.
