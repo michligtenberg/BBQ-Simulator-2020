@@ -11,3 +11,5 @@ download of the excecutable can be found @ releases.
 
 project files are on an old external hard drive, will try to upload
 these asap.
+
+![Alt text](pic01.jpg?raw=true "Screenshot")
