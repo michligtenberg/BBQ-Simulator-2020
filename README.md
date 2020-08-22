@@ -8,6 +8,7 @@ using unity and simple physics scripting, also includes
 a script for grabbing objects gmod style.
 
 download of the executable can be found @ releases.
+UPDATE: added mac installer too.
 
 project files are on an old external hard drive, will try to upload
 these asap.
