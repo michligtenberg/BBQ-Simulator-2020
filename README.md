@@ -13,4 +13,6 @@ UPDATE: added mac installer too.
 project files are on an old external hard drive, will try to upload
 these asap.
 
+EDIT: uploaded the unity project in the releases section.
+
 ![Alt text](pic01.jpg?raw=true "Screenshot")
